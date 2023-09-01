@@ -9,7 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.4.5"
+    "vite": "^4.4.5",
+    "vite-plugin-static-copy": "^0.17.0"
   },
   "dependencies": {
     "agora-rtm-sdk": "^1.5.1"
